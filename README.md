@@ -4,8 +4,8 @@ Backend: Node.js + Express + TypeScript
 
 Frontend: React + TypeScript
 
-Database: MongoDB
-Auth: JWT
+# Database: MongoDB
+# Auth: JWT
 
 Деплой: Vercel (frontend) + Render or Heroku (backend)
 
