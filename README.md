@@ -7,6 +7,6 @@ Frontend: React + TypeScript
 # Database: MongoDB
 # Auth: JWT
 
-Деплой: Vercel (frontend) + Render or Heroku (backend)
+// Деплой: Vercel (frontend) + Render or Heroku (backend)
 
 CI/CD: GitHub Actions
